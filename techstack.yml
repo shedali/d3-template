@@ -1,0 +1,28 @@
+repo_name: shedali/d3-template
+report_id: 11abc8cbb7cad476a6fc80990f08c64c
+repo_type: Public
+timestamp: '2023-11-09T22:46:37+00:00'
+requested_by: shedali
+provider: github
+branch: master
+detected_tools_count: 2
+tools:
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
